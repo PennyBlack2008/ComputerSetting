@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Qiita",
+    "workbench.iconTheme": "vscode-icons",
+	"window.zoomLevel": 2,
+	"editor.renderWhitespace": "all",
+    "editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"42header.username": "jikang",
+	"42header.email": "jikang@student.42seoul.kr"
+}

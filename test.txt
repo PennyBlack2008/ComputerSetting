@@ -1,0 +1,6 @@
+https://www.idownloadblog.com/2015/01/14/how-to-enable-key-repeats-on-your-mac/
+42toolbox
+42homebrew
+vscode
+oh my zsh
+dracula-> .itermcolors
