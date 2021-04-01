@@ -56,7 +56,7 @@ source $ZSH/oh-my-zsh.sh
 alias cc="gcc -Wall -Wextra -Werror"
 alias n="norminette"
 alias v="vim"
-alias !="cd /Users/jikang/goinfre/Pennymannibanni/42cursus/minishell"
+alias !="cd /Users/jikang/goinfre/CPP_modules/"
 alias asm="gcc -L ./.. -lasm -I ./.."
 # User configuration
 # export MANPATH="/usr/local/man:$MANPATH"
@@ -80,9 +80,13 @@ alias asm="gcc -L ./.. -lasm -I ./.."
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 export PATH=$HOME/.brew/bin:$PATH
 export PATH=/Users/jikang/.brew/bin:/Users/jikang/.brew/bin:/Users/jikang/.brew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/munki
+export JK=/Users/jikang/goinfre/42cursus_circle4/cpp_module/
+export YK=/Users/jikang/goinfre/ykoh/
+export GG=/Users/jikang/goinfre/glagan/
 
 # VSCode path
 code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VScode" --args $* ;}
 
 # Load Homebrew config script
 source $HOME/.brewconfig.zsh
+
