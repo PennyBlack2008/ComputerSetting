@@ -53,7 +53,8 @@ ZSH_THEME=""
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(git)
 source $ZSH/oh-my-zsh.sh
-alias cc="gcc -Wall -Wextra -Werror"
+alias cc="clang++ -Wall -Wextra -Werror"
+alias ca="clang++ -Wall -Wextra -Werror *.cpp"
 alias n="norminette"
 alias v="vim"
 alias !="cd /Users/jikang/goinfre/CPP_modules/"
